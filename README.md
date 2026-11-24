@@ -178,7 +178,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [deepinfer](https://github.com/deepseek-ai/DeepInfer) - DeepSeek's production inference engine for DeepSeek models, with MoE expert parallelism.
 - Image and Video Generation
   - [diffusers](https://github.com/huggingface/diffusers) - Pre-trained diffusion models for generating and editing images, audio, and video.
-- Fine-tuning
+- Fine-tuningغلف
   - [peft](https://github.com/huggingface/peft) - A library for parameter-efficient fine-tuning of large pretrained models.
   - [trl](https://github.com/huggingface/trl) - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
   - [unsloth](https://github.com/unslothai/unsloth) - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
